@@ -1,0 +1,17 @@
+
+* html #wrap {
+  padding-top: 13px;
+}
+
+* html #nav {
+  margin: 14px 0 0;
+}
+
+*+html #nav {
+  margin: 14px 0 0;
+}
+
+#nav A {
+  position: relative;
+  top: -4px;
+}

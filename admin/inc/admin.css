@@ -1,0 +1,24 @@
+.controls {
+  float: left;
+  width: 50px;
+  margin-left: -50px;
+}
+.controls IMG {
+  vertical-align: middle;
+  margin: 0 2px;
+}
+
+#header {
+  padding-top: 61px;
+}
+
+#menu LI {
+  font-family: Trebuchet MS, Helvetica, sans-serif;
+  font-size: 30px;
+  height: 1em;
+  line-height: 1em;
+}
+
+#content IMG {
+  border: 0;
+}
