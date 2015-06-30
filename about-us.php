@@ -9,7 +9,7 @@ include "header.php";
 
 <h1>About NSI</h2>
 
-Niche Sampling Inc. (NSI), incorporated in 1993 is proud to be entering its 20th year in 2012.  NSI is a marketing services company which seeks to provide an avenue for marketers to efficiently and effectively reach and influence the purchase habits of highly targeted consumer segments through product sampling programs. NSI is devoted to creating the perfect marriages between brands, retailers, sample distribution venues, media and consumers.<br>
+Niche Sampling Inc. (NSI) was launched in 1993 and is proud to have served many of the world's most successful companies for two and a half decades! NSI is a marketing services company which seeks to provide an avenue for marketers to efficiently and effectively reach and influence the purchase habits of highly targeted consumer segments through product sampling programs. NSI is devoted to creating the perfect marriages between brands, retailers, sample distribution venues, media and consumers.<br>
 <br>
 
 NSI distributes samples to fitness and health conscious women, college students, airline and cruise passengers, upscale men & women at theaters and new mothers in hospital.<br>
