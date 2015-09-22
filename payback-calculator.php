@@ -78,7 +78,7 @@ include "header.php";
 
 <div style="text-align: center; font-weight: bold; font-size: 125%;">
   YEAR 1 ANALYSIS OF Brand X<br>
-  PARTICIPATION IN NSI'S SAMPLING PROGRAM Curves Gift Pack
+  PARTICIPATION IN NSI'S SAMPLING PROGRAM Gift Pack
   <hr style="width: 70%;">
   Brand X reported a +8 point increase in "Most Likely To Use Next".<br>
   It Increased from 6% in the Control Cell to 14% in the Test Cell.
@@ -87,7 +87,7 @@ include "header.php";
 <br><br>
 
 <div style="width: 380px; margin: 0 auto;">
-  <div style="float: left; width: 210px; text-align: right; margin-right: 5px;">Curves Gift Pack total samples</div>
+  <div style="float: left; width: 210px; text-align: right; margin-right: 5px;">Gift Pack total samples</div>
   <input type="text" id="samples" value="1000000" style="float: left; width: 50px; text-align: right;">
   <div style="clear: both;"></div>
   
