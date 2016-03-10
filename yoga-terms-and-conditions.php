@@ -17,6 +17,9 @@ In order for this program to be successful, controlled distribution of the Yoga 
   <li>Distribute all of the Sample Packs within 2 weeks of receipt</li>
   <li>Certify that you are an Active Yoga or Pilates instructor.</li>
 </ol>
+<br>
+
+<strong style="color: #C9362A;">Receive, store and distribute the samples using all due care to keep them in a safe and secure manner where they are not subject to theft or tampering.</strong>
 
 <?php
 include "footer.php";

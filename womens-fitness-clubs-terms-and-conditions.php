@@ -16,6 +16,9 @@ In order for this program to be successful, controlled distribution of the Women
   <li>Distribute only one Sample Pack per Women's Fitness Club Member (no duplication)</li>
   <li>Distribute all of the Sample Packs within 2 weeks of receipt</li>
 </ol>
+<br>
+
+<strong style="color: #C9362A;">Receive, store and distribute the samples using all due care to keep them in a safe and secure manner where they are not subject to theft or tampering.</strong>
 
 <?php
 include "footer.php";
